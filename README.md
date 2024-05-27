@@ -1,2 +1,1 @@
-# projects
-My all projects are here
+Amazon Homw Page with HTML/CSS
